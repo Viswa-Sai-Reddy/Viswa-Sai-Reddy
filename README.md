@@ -6,6 +6,6 @@
 
 - 🌱 I’m currently learning **Full Stack Development Bootcamp - JavaScript**
 - 👯 I’m looking to collaborate with IT companies on a **Full Stack Developer** Role.
-- 📫 How to reach me:[Email](viswasaireddy96033@gmail.com)
+- 📫 How to reach me: [Email](viswasaireddy96033@gmail.com)
 
 
