@@ -1,6 +1,6 @@
 # Hi, I am Viswa.
 
--Recently I completed my graduation in Computer Science(CSE) with a CGPA of 8.15.
+-Recently I completed my graduation in Computer Science(CSE) with a CGPA of 8.15.  
 -I am an Inquisitive computer science graduate with a strong foundation in cross-platform coding like - Java, Python, HTML5/CSS3, MySQL, and JavaScript.
 
 
