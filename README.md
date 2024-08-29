@@ -19,7 +19,7 @@ I am actively seeking opportunities to transition into a Full Stack Developer ro
 ## 📫 How to reach me:
 Feel free to reach out to me for collaborations or job opportunities!
 
-- [Email](viswasaireddy96033@gmail.com).
-- [LinkedIn](www.linkedin.com/in/viswa-sai-reddy).
+- **Email:** viswasaireddy96033@gmail.com.
+- **LinkedIn:** www.linkedin.com/in/viswa-sai-reddy.
 
 Looking forward to connecting!
